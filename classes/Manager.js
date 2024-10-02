@@ -21,6 +21,4 @@ setEmployeesManaged(employee){
     
 }
 
-module.exports = {
-    Manager,
-}
+export {Manager as default};
